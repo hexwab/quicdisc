@@ -1,0 +1,23 @@
+B-em:
+* 8271: not detected
+* 1770: completes
+
+b2:
+* 8271: not implemented
+* 1770: hangs at start
+
+JSBeeb:
+* 8271: not detected
+* 1770: hangs at start
+
+beebjit:
+* 8271: fifo overrun
+* 1770: not implemented
+
+BeebEm (4.10, windows):
+* 8271: not detected
+* 1770: hangs part-way through
+
+MAME v0.206
+* 8271: not detected
+* 1770: hangs at start
